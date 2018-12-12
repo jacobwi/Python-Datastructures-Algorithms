@@ -1,9 +1,16 @@
+'''
+Node class represents a single node in the linked list Each node has value (data) and a pointer to the next node
+'''
+
 class Node:
     def __init__(self, data, next, prev):
         self.data = data
         self.next = next
         self.prev = prev
 
+'''
+Doubly-Linked list class represents a list of connected, single-direction nodes
+'''
 
 class DoublyLinkedList:
     def __init__(self):
