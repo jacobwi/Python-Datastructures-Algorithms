@@ -1,2 +1,5 @@
-# Python-Datastructures-Algorithms
-Implementation of different data structures and algorithms without the use of any built-in libraries.
+# Collection of Python's Data Structures and Algorithms 👍
+- 🔗 Linked Lists:
+  - Doubly Linked List
+- 📚 Stacks
+
