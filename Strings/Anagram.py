@@ -38,7 +38,7 @@ def anagram_check_without_spaces(s1, s2):
 
 # This function perform more manual way of checking 
 # NOTE: assuming both strings may include any spaces
-def anagram_check_without_spaces(s1, s2):
+def anagram_check_with_spaces(s1, s2):
     # Pythonic way to replace empty spaces
     s1 = s1.replace(' ', '').lower()
     s2 = s2.replace(' ', '').lower()
