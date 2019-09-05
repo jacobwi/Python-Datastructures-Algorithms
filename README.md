@@ -3,4 +3,6 @@
   - Singly Linked List
   - Doubly Linked List
 - 📚 Stacks
+- 🔦 Arrays
+- 📼 Strings
 
